@@ -1,4 +1,4 @@
-# Internet_Budget_Cpp
+# Internet_Mangment_System
 This is a README file for the Internet Management System project, a C++ application that allows users to manage their internet plans, recharge their balance, subscribe to plans, and view their usage details.
 ## Features
 - **Sign Up**: Users can create a new account by providing their basic information.
